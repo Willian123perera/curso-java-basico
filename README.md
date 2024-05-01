@@ -1,2 +1,2 @@
-# curso-java-basico
-repositorio para armazenar todo o conteudo do curso de Java Basico
+# Curso-java-basico
+Repositorio para armazenar todo o conteudo do curso de Java Basico
